@@ -8,7 +8,7 @@ designed. Please note this example uses and requires Java 8 to work.
 ![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
 
 
-Running the example from the command lineeeeeeeee
+Running the example from the command line
 -------------------
 ```
 $ mvn jetty:run
@@ -40,7 +40,7 @@ To checkout and run the project in NetBeans, do:
 - Team -> Git -> Clone
 - Set repository URL to https://github.com/vaadin/addressbook.git
 - Finish
-- Right click the imported project (Vaadin Addressbook Application) and select Runn
+- Right click the imported project (Vaadin Addressbook Application) and select Run
 - Select GlassFish Server 4.1 -> Remember in Current IDE Session -> OK
 
 You should now have a GlassFish server running on localhost:8080 and a browser tab should also be automatically opened with this location
